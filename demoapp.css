@@ -1,9 +1,7 @@
 /*Styles for Saving Account Form*/
 .error{
     display:block;
-    padding:6px 12px;
-    border-radius:4px;
     margin:5px 0 0 0;
-    border:2px solid #a94442;
+    color:brown;
 }
 /*Styles for Current Account Form*/
